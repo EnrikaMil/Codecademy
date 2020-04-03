@@ -1,2 +1,2 @@
 # Codecademy
-My repository to hold projects from codecademy
+My repository to hold projects from codecademy.
